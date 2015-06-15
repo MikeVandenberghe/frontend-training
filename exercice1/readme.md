@@ -1,6 +1,6 @@
 # Animated fullscreen design
 
-![Front-end exercice: Loading...](http://cdn.makeagif.com/media/6-15-2015/YrBNfg.gif)
+![Front-end exercice: Loading...](https://github.com/nlenaerts/frontend-exercices/raw/master/exercice1/briefing.gif)
 
 **Create a webpage based on this video.**
 
